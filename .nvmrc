@@ -1,1 +1,1 @@
-echo "v20" > .nvmrc
+echo "v22" > .nvmrc
